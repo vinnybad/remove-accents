@@ -398,6 +398,9 @@ var characterMap = {
 	"x̧": "x",
 	"Z̧": "Z",
 	"z̧": "z",
+        "ṣ" : "s",
+        "ṭ" : "t",
+        "ḍ" : "d",
 };
 
 var chars = Object.keys(characterMap).join('|');
