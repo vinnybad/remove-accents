@@ -402,6 +402,7 @@ var characterMap = {
         "ṭ" : "t",
         "ḍ" : "d",
         "ṇ" : "n",
+        "ṅ" : "n",
 };
 
 var chars = Object.keys(characterMap).join('|');
